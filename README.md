@@ -1,63 +1,138 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sadeq Niko Fekr</h1>
+<h1 align="center">Hi 👋, I'm Mohammad-Sadegh Niko Fekr</h1>
 
 <p align="center">
-I'm an experienced ML Engineer with a passion for building solutions in <b>Natural Language Processing (NLP)</b>, <b>Large Language Models (LLMs)</b>, and <b>Neural Networks</b>. My journey in AI has been driven by curiosity and the desire to push boundaries. I primarily code in Python and explore innovative approaches in ML and AI.
+  <b>AI Engineer | LLM & Agentic AI</b><br>
+  Building practical AI systems around LLMs, RAG, multi-agent workflows, and intelligent data applications.
 </p>
-
----
-
-###  About Me:
--  My expertise lies in **NLP**, **LLMs**, and **Neural Networks**.
--  Most of my projects are implemented using **Python**.
--  I am pursuing a career path as an **ML Engineer** or **NLP Specialist**.
--  I am well-versed in **Machine Learning**, **Reinforcement Learning**, and **Artificial Intelligence**.
--  Continuously learning and exploring cutting-edge technologies in the field.
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-sadeq-niko-fekr/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:mohammadsadeqnikofekr@gmail.com" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" style="margin: 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin: 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" style="margin: 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin: 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin: 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" style="margin: 10px;" />
-  </a>
-</p>
-
-
----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeq-niko&show_icons=true&locale=en&layout=compact" alt="sadeq-niko" />
+  <a href="https://www.linkedin.com/in/mohammad-sadeq-niko-fekr/">LinkedIn</a> ·
+  <a href="mailto:mohammadsadeqnikofekr@gmail.com">Email</a>
 </p>
+
+---
+
+## About Me
+
+I am an **AI Engineer focused on LLMs, Agentic AI, RAG, and AI system architecture**. I enjoy turning complex ideas and real-world problems into practical AI systems.
+
+My work combines hands-on engineering with technical leadership: designing system architectures, making technical decisions, prototyping core components, reviewing implementations, decomposing work, and enabling teams to build AI systems effectively.
+
+My earlier work and academic background also include **Machine Learning, Deep Learning, NLP, Reinforcement Learning, Computer Vision, Digital Image Processing, and classical AI algorithms**.
+
+## Current Focus
+
+- **LLM-based systems** and practical Generative AI applications
+- **Agentic & multi-agent systems**
+- **RAG and retrieval-driven AI**
+- **Tool-using agents, MCP, and Human-in-the-Loop workflows**
+- **LLM orchestration, model selection, and routing**
+- **AI system architecture, evaluation, and optimization**
+
+---
+
+## Featured AI Engineering Work
+
+### MAHPAD — Agentic Natural-Language-to-SQL System
+**Private Project · Technical Lead / AI Systems Architect**
+
+An agentic system that converts natural-language requests into SQL, executes them against databases, retrieves and aggregates results, and produces reports and visualizations.
+
+My contribution includes overall system architecture, the initial prototype, agent orchestration, LLM abstraction and model routing, versioned prompt management, HITL, evaluation, technical planning, implementation review, and system optimization.
+
+> The production repository is private. Architecture, selected implementation details, and evaluation artifacts can be demonstrated during interviews.
+
+### DadeYab — Intelligent Data Relationship Discovery & Mapping
+**Private Project · Technical Lead / System Architect**
+
+An AI-driven system for discovering and mapping relationships across heterogeneous organizational databases through schema extraction, profiling, feature engineering, relationship detection, and knowledge-graph-based integration mapping.
+
+My role is primarily focused on system architecture, knowledge-graph design, technical planning, cross-team coordination, implementation review, and development direction.
+
+> The production repository is private. Architecture and selected project artifacts can be demonstrated during interviews.
+
+### M.Sc. Thesis — Multi-Agent AI for Homeopathic Treatment Recommendation & Synthetic Patient-History Generation
+**Ferdowsi University of Mashhad · 2023–Present · Private Project**
+
+A multi-agent AI system that engineers and simulates a complex domain-specific treatment workflow using structured knowledge retrieval, LLM agents, lexical and vector similarity, filtering, ranking, and AI-assisted decision-making.
+
+The project also includes an LLM-based synthetic patient-history generation pipeline designed to address severe domain-data scarcity, with domain-expert validation and cross-pipeline evaluation.
+
+---
+
+## Technical Leadership & Knowledge Transfer
+
+### Introduction to LLMs
+
+Designed and maintain a practical, team-oriented repository for learning LLMs and Agentic AI.
+
+I used this repository to **train and technically enable two separate development teams** working on MAHPAD and DadeYab, providing a shared foundation in LLM application development, agent workflows, LangGraph, context engineering, tools, and MCP.
+
+---
+
+## Public Repositories
+
+### LLM, NLP & Agentic AI
+
+- [Introduction_to_LLMs](https://github.com/Sadeq-Niko/Introduction_to_LLMs) — Team-oriented learning repository covering LLM foundations, Agentic AI, LangGraph, agent workflows, tools, MCP, and practical examples.
+- [NLP](https://github.com/Sadeq-Niko/NLP) — Earlier NLP work, including Persian sentiment analysis with BERT and Transformer-based workflows.
+
+### Reinforcement Learning
+
+- [Reinforcement-Learning](https://github.com/Sadeq-Niko/Reinforcement-Learning) — Implementations of classic RL algorithms including Policy Iteration, Value Iteration, Q-Learning, Double Q-Learning, SARSA, and Dyna-Q.
+
+### Computer Vision & Image Processing
+
+- [Digital-Image-Processing](https://github.com/Sadeq-Niko/Digital-Image-Processing) — Coursework and implementations covering spatial/frequency-domain processing, feature detection, image transformations, color spaces, histograms, wavelets, and related computer-vision techniques.
+
+### Classical AI & Algorithms
+
+- [Classic-AI-Algorithms](https://github.com/Sadeq-Niko/Classic-AI-Algorithms) — Python implementations of Minimax/Alpha-Beta Pruning, A*, Genetic Algorithms, Simulated Annealing, and related classical AI techniques.
+- [Data-Structures-and-Algorithms](https://github.com/Sadeq-Niko/Data-Structures-and-Algorithms) — Implementations of core data structures and algorithms including AVL trees, graph algorithms, dynamic programming, backtracking, and string-distance algorithms.
+
+### Machine Learning & Deep Learning
+
+- [Machine-Learning](https://github.com/Sadeq-Niko/Machine-Learning) — A structured machine-learning engineering template covering classical ML families, evaluation, feature engineering, pipelines, reproducibility, and production-oriented tooling.
+- [Deep-Learning](https://github.com/Sadeq-Niko/Deep-Learning) — A structured deep-learning template spanning Computer Vision, NLP, Speech, Reinforcement Learning, multimodal learning, optimization, and deployment topics.
+
+> The Machine-Learning, Deep-Learning, and rag-lab repositories currently serve primarily as learning/template scaffolds rather than completed portfolio projects, so they are intentionally not presented as flagship project work.
+
+- [rag-lab](https://github.com/Sadeq-Niko/rag-lab) — Experimental/template space for exploring RAG approaches such as dense, sparse, hybrid, graph-based, and agentic retrieval.
+
+---
+
+## Technical Stack
+
+**Programming & Engineering:** Python, SQL, Git, Linux, Object-Oriented Programming, Software Architecture
+
+**LLM / Generative AI:** LLMs, Prompt Engineering, Context Engineering, Structured Generation, Tool Calling, Model Selection
+
+**Agentic AI:** LangGraph, CrewAI, MCP, Multi-Agent Systems, Agent Orchestration, Human-in-the-Loop
+
+**RAG / Retrieval:** RAG, Embeddings, Semantic Search, Hybrid Retrieval, Vector Search, Lexical & Vector Similarity
+
+**Machine Learning / Deep Learning:** PyTorch, Transformers, BERT, Scikit-learn, Neural Networks
+
+**Additional Background:** Reinforcement Learning, Computer Vision, Digital Image Processing, Classical AI, Data Structures & Algorithms
+
+---
+
+## What I Like Building
+
+I am especially interested in systems where **LLMs are used as reasoning and orchestration components inside larger AI systems** rather than as isolated chat interfaces.
+
+I enjoy problems involving:
+- complex workflows that benefit from agentic decomposition
+- retrieval over structured or unstructured knowledge
+- model selection and routing
+- tool-using AI systems
+- evaluation and optimization
+- turning research ideas into practical engineering systems
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/mohammad-sadeq-niko-fekr/)
+- [Email](mailto:mohammadsadeqnikofekr@gmail.com)
+- [GitHub](https://github.com/Sadeq-Niko)
